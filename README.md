@@ -1,2 +1,2 @@
 # First-GitHub-Pages
-https://github.com/jackfulbeck/First-GitHub-Pages
+https://jackfulbeck.github.io/First-GitHub-Pages/
